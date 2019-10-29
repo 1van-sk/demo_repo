@@ -1,6 +1,7 @@
 test test
 demo demo demo
 feature index 1: blah-blah
-hla
+feature index 2: foo bar baz
+hla mla fla flu
 index4: akdkdkdkdkdkdkdkdkdkdk
 fooo foooooooo
