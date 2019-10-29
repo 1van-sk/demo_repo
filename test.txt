@@ -1,3 +1,4 @@
 test test
 demo demo demo
+feature index 2: foo bar baz
 fooo foooooooo
