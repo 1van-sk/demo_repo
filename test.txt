@@ -4,6 +4,7 @@ feature index 1: blah-blah
 feature index 2: foo bar baz
 hla mla fla flu
 index4: akdkdkdkdkdkdkdkdkdkdk
+index7: fixed bugs
 index6: was here
 fooo foooooooo
 index8: stable feature
