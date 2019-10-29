@@ -2,4 +2,5 @@ test test
 demo demo demo
 feature index 1: blah-blah
 hla
+index4: akdkdkdkdkdkdkdkdkdkdk
 fooo foooooooo
