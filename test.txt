@@ -6,3 +6,4 @@ hla mla fla flu
 index4: akdkdkdkdkdkdkdkdkdkdk
 index6: was here
 fooo foooooooo
+index8: stable feature
